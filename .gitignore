@@ -9,3 +9,5 @@
 /config
 .DS_Store
 .project
+/awsnode/config.json
+**/node_modules
